@@ -1,0 +1,14 @@
+.botonClear{
+    width: 150px;
+    height: 50px;
+    border-radius: 15px;
+    background-color: #d689a6;
+    border: 1px solid black;
+    border-bottom: 4px solid black;
+    user-select: none;
+    cursor: pointer;
+    
+}
+.botonClear:active{
+    border-bottom: 1px solid black;
+}

@@ -1,0 +1,8 @@
+.pantalla{
+    background-color: cadetblue;
+    width: 340px;
+    height: 90px;
+    border-radius: 65px;
+    border: 2px solid black;
+    user-select: none;
+}

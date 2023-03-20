@@ -1,0 +1,15 @@
+.boton{
+    background-color: #a29eae;
+    height: 50px;
+    width: 40px;
+    flex: 1;
+    margin: 5px;
+    border-radius: 15px;
+    border: 1px solid black;
+    border-bottom: 4px solid black;
+    cursor: pointer;
+    user-select: none;
+}
+.boton:active{
+    border-bottom: 1px solid black;
+}
